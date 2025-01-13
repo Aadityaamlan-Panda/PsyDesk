@@ -1,0 +1,10 @@
+To create and activate virtual environment
+
+pip install virtualenv
+virtualenv -p python3.9.0 myenv
+myenv\Scripts\activate
+
+pip install -r requirements.txt
+
+If you wish to deactivate
+type "deactivate" (without quotes)

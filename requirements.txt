@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pyautogui
+pillow
+azure-cognitiveservices-speech
+tk
